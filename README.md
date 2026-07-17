@@ -4,24 +4,23 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social" alt="GitHub Followers"/></a>
+  <img src="https://komarev.com/ghpvc/?username=PaarthKaushik4&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/PaarthKaushik4?label=Followers&style=social" alt="GitHub Followers"/></a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently pursuing my B.Tech in IT at **Delhi Technological University (DTU)** (Expected 2027)  
+- 🔭 Currently pursuing my B.Tech in IT at **Delhi Technological University (DTU IT 2027)**
 - 🏆 **National Rank 1 (Winner)** at Smart India Hackathon (SIH) 2025 for an AI-driven Virtual Power Plant  
-- ⚡ Active competitive programmer (**Codeforces Pupil**, LeetCode, CodeChef) and inter-university chess player  
-- 🌱 Exploring **OS Internals, Cybersecurity (Nmap, Wireshark), and Data Engineering workflows**  
-- 📫 Reach me at: **[Your Email Here]**  
+- ⚡ Active competitive programmer (**Codeforces Specilist**, **LeetCode Knight**, **CodeChef 3-star**)
+- 📫 Reach me at: **paarthkaushik4@gmail.com**   
 
 ---
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/paarth-kaushik/)"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
+  <a href="[https://linkedin.com/in/paarth-kaushik](https://www.linkedin.com/in/paarth-kaushik/)"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
 </p>
 
 ---
