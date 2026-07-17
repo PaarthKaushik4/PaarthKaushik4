@@ -21,8 +21,7 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/></a>
+  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/paarth-kaushik/)"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
 </p>
 
 ---
@@ -45,20 +44,19 @@
 
 ### 🚀 Featured Projects
 <p align="center"> 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/Interactive-Skills-Enhancer"><img src="https://github-readme-stats-pi-mauve-35.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=Interactive-Skills-Enhancer&theme=radical"/></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/MERN-Quiz-Application"><img src="https://github-readme-stats-pi-mauve-35.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=MERN-Quiz-Application&theme=radical"/></a>
+  <a href="https://github.com/PaarthKaushik4/MERN-Quiz-Application"><img src="https://github-readme-stats-pi-mauve-35.vercel.app/api/pin/?username=PaarthKaushik4&repo=MERN-Quiz-Application&theme=radical"/></a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-pi-mauve-35.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" width="395"/>
-  <img src="https://github-readme-stats-pi-mauve-35.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" width="300"/>
+  <img src="https://github-readme-stats-pi-mauve-35.vercel.app/api?username=PaarthKaushik4&show_icons=true&theme=radical" alt="GitHub Stats" width="395"/>
+  <img src="https://github-readme-stats-pi-mauve-35.vercel.app/api/top-langs/?username=PaarthKaushik4&layout=compact&theme=radical" alt="Top Languages" width="300"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" width="395"/>
+  <img src="https://streak-stats.demolab.com/?user=PaarthKaushik4&theme=radical" alt="GitHub Streak" width="395"/>
 </p>
 
 ---
