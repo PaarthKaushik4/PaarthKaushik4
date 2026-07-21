@@ -43,7 +43,8 @@
 
 ### 🚀 Featured Projects
 <p align="center"> 
-  <a href="https://github.com/PaarthKaushik4/MERN-Quiz-Application"><img src="https://github-readme-stats-pi-mauve-35.vercel.app/api/pin/?username=PaarthKaushik4&repo=MERN-Quiz-Application&theme=radical"/></a>
+  <a href="https://github.com/PaarthKaushik4/Lumina_AI"><img src="https://github-readme-stats-pi-mauve-35.vercel.app/api/pin/?username=PaarthKaushik4&repo=Lumina_AI&theme=radical"/></a>
+  <a href="https://github.com/PaarthKaushik4/TeamGaruda-SIH"><img src="https://github-readme-stats-pi-mauve-35.vercel.app/api/pin/?username=PaarthKaushik4&repo=TeamGaruda-SIH&theme=radical"/></a>
 </p>
 
 ---
